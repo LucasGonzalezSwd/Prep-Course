@@ -1,0 +1,36 @@
+h1 {
+    color: crimson;
+    
+}
+
+img {
+     width: 400px;
+}
+
+#thirdDiv{
+     width: 500px;
+     height: 600px;
+     background: rgba(137, 43, 226, 0.163);
+     padding: 50px;
+     border: 1px dashed rgb(5, 134, 157);
+    
+}
+
+#spanID{ 
+    font-size: 18px;
+    margin: 50px;
+}
+body {
+    background-image: url(https://fondosmil.com/fondo/29366.jpg);
+    
+}
+
+div {
+     margin: auto;
+     text-align: center;
+     color: whitesmoke;
+}
+div a {
+    color: whitesmoke;
+    text-decoration: none;
+}
